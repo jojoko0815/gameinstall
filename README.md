@@ -8,6 +8,7 @@ Es werden installiert:
   - Epic Games Launcher
   - Team Viewer
   - Ascomp Secure Eraser
+  - Anydesk
 # Was darf ich machen?
 Sie dürfen den Script umschreiben, Mir schicken :) und teilen
 # Wie kann ich dich anschreiben

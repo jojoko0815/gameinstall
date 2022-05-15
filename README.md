@@ -7,7 +7,7 @@ Es werden installiert:
   - Epic Games Launcher
   - Team Viewer
   - Ascomp Secure Eraser
-#Bugs
+# Bugs
 Google Chrome kein Automatischer Download
-#Fix
+# Fix
 Bei der Seite von Chrome auf auf Download drücken

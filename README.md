@@ -12,6 +12,8 @@ Es werden installiert:
 Sie dürfen den Script umschreiben, Mir schicken :) und teilen
 # Wie kann ich dich anschreiben
 Per Discord Jojo#4366 oder Per Mail an kontakt@cloudhouse.ml
+# Wieso anschreiben?
+Für Bugs, Anfragen von Programen und Hilfe
 # Bugs
 Google Chrome kein Automatischer Download
 # Fix

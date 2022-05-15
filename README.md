@@ -1,3 +1,13 @@
 # gameinstall
-Einfach "iwr -useb https://raw.githubusercontent.com/jojoko0815/gameinstall/main/install.ps1 | iex" in Powershell eingeben
-Um Powershell zu öffnen Windows + X und dann Powershell (Admin)
+Einfach install.cmd öffnen
+Es werden installiert:
+  - Steam
+  - Discord
+  - Chrome
+  - Epic Games Launcher
+  - Team Viewer
+  - Ascomp Secure Eraser
+#Bugs
+Google Chrome kein Automatischer Download
+#Fix
+Bei der Seite von Chrome auf auf Download drücken
